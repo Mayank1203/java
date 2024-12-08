@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JAVA PROGRAMMING.iml" filepath="$PROJECT_DIR$/JAVA PROGRAMMING.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DP.iml" filepath="$PROJECT_DIR$/DP.iml" />
+>>>>>>> 17a6c48 (forth commit about Dynamic Programming)
     </modules>
   </component>
 </project>
